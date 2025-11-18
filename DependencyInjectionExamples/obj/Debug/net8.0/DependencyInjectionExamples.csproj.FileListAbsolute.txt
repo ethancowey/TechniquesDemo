@@ -1,0 +1,14 @@
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\bin\Debug\net8.0\DependencyInjectionExamples.exe
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\bin\Debug\net8.0\DependencyInjectionExamples.deps.json
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\bin\Debug\net8.0\DependencyInjectionExamples.runtimeconfig.json
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\bin\Debug\net8.0\DependencyInjectionExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\bin\Debug\net8.0\DependencyInjectionExamples.pdb
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\DependencyInjectionExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\DependencyInjectionExamples.AssemblyInfoInputs.cache
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\DependencyInjectionExamples.AssemblyInfo.cs
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\DependencyInjectionExamples.csproj.CoreCompileInputs.cache
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\DependencyInjectionExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\refint\DependencyInjectionExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\DependencyInjectionExamples.pdb
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\DependencyInjectionExamples.genruntimeconfig.cache
+C:\Users\ethan\projects\TechniquesDemo\DependencyInjectionExamples\obj\Debug\net8.0\ref\DependencyInjectionExamples.dll

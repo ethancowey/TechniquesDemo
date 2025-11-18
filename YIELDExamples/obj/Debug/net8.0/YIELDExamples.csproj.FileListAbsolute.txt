@@ -1,0 +1,14 @@
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\bin\Debug\net8.0\YIELDExamples.exe
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\bin\Debug\net8.0\YIELDExamples.deps.json
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\bin\Debug\net8.0\YIELDExamples.runtimeconfig.json
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\bin\Debug\net8.0\YIELDExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\bin\Debug\net8.0\YIELDExamples.pdb
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\YIELDExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\YIELDExamples.AssemblyInfoInputs.cache
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\YIELDExamples.AssemblyInfo.cs
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\YIELDExamples.csproj.CoreCompileInputs.cache
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\YIELDExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\refint\YIELDExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\YIELDExamples.pdb
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\YIELDExamples.genruntimeconfig.cache
+C:\Users\ethan\projects\TechniquesDemo\YIELDExamples\obj\Debug\net8.0\ref\YIELDExamples.dll

@@ -1,0 +1,14 @@
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\bin\Debug\net8.0\LINQExamples.exe
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\bin\Debug\net8.0\LINQExamples.deps.json
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\bin\Debug\net8.0\LINQExamples.runtimeconfig.json
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\bin\Debug\net8.0\LINQExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\bin\Debug\net8.0\LINQExamples.pdb
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\LINQExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\LINQExamples.AssemblyInfoInputs.cache
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\LINQExamples.AssemblyInfo.cs
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\LINQExamples.csproj.CoreCompileInputs.cache
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\LINQExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\refint\LINQExamples.dll
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\LINQExamples.pdb
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\LINQExamples.genruntimeconfig.cache
+C:\Users\ethan\projects\TechniquesDemo\LINQExamples\obj\Debug\net8.0\ref\LINQExamples.dll
